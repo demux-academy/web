@@ -39,7 +39,7 @@
 - Express is a framework to build a server in Javascript.
 - A server take a request and returns a response.
 - Express Docs : [https://expressjs.com/](https://expressjs.com/)
-- Express Generate Hello Workd : [https://expressjs.com/en/starter/generator.html](https://expressjs.com/en/starter/generator.html)
+- Express Generate Hello World : [https://expressjs.com/en/starter/generator.html](https://expressjs.com/en/starter/generator.html)
 
 ```bash
 npx express-generator --no-view omdb-backend
